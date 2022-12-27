@@ -1,0 +1,27 @@
+{
+  "nextId": 7,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Aurora Medeiros Herca",
+      "balance": 15750
+    },
+    {
+      "id": 3,
+      "name": "Aurora Medeiros Herca",
+      "balance": 1500
+    },
+    {
+      "id": 4,
+      "name": "Aurora Medeiros Herca"
+    },
+    {
+      "id": 5,
+      "name": "Aurora Medeiros Herca"
+    },
+    {
+      "id": 6,
+      "name": "Aurora Medeiros Herca"
+    }
+  ]
+}

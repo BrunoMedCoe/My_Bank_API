@@ -1,0 +1,169 @@
+2022-09-07T13:45:44.413Z [my-bank-api] info: API Started!
+2022-09-07T13:46:17.490Z [my-bank-api] info: API Started!
+2022-09-07T13:46:56.403Z [my-bank-api] info: API Started!
+2022-09-07T13:48:11.291Z [my-bank-api] info: API Started!
+2022-09-07T13:48:57.722Z [my-bank-api] info: API Started!
+2022-09-07T13:49:29.990Z [my-bank-api] info: API Started!
+2022-09-07T13:50:32.197Z [my-bank-api] info: API Started!
+2022-09-07T13:54:50.962Z [my-bank-api] info: API Started!
+2022-09-07T13:55:51.380Z [my-bank-api] info: API Started!
+2022-09-07T13:57:21.185Z [my-bank-api] info: API Started!
+2022-09-07T13:59:17.776Z [my-bank-api] info: API Started!
+2022-09-07T14:00:19.065Z [my-bank-api] info: API Started!
+2022-09-07T14:01:10.080Z [my-bank-api] info: API Started!
+2022-09-07T14:12:44.622Z [my-bank-api] info: PATCH /account/updateBalance - {"id":1,"balance":55750}
+2022-09-07T14:25:03.717Z [my-bank-api] info: API Started and File Created!
+2022-09-07T14:25:24.962Z [my-bank-api] info: API Started!
+2022-09-07T14:26:00.053Z [my-bank-api] info: API Started and File Created!
+2022-09-07T17:46:15.655Z [my-bank-api] info: API Started and File Created!
+2022-09-07T17:52:30.012Z [my-bank-api] info: API Started!
+2022-09-07T17:53:05.311Z [my-bank-api] info: API Started!
+2022-09-07T17:55:39.084Z [my-bank-api] info: API Started!
+2022-09-07T17:57:29.372Z [my-bank-api] info: API Started!
+2022-09-07T17:58:46.832Z [my-bank-api] info: API Started!
+2022-09-07T18:01:18.922Z [my-bank-api] info: API Started!
+2022-09-07T18:02:53.552Z [my-bank-api] info: API Started!
+2022-09-07T18:04:46.496Z [my-bank-api] info: API Started!
+2022-09-07T18:05:30.162Z [my-bank-api] info: API Started!
+2022-09-07T18:08:17.946Z [my-bank-api] info: API Started!
+2022-09-07T18:09:15.790Z [my-bank-api] info: PUT /account - {"id":1,"name":"Aurora Medeiros Herca","balance":15750}
+2022-09-07T18:13:17.252Z [my-bank-api] info: API Started!
+2022-09-07T18:14:44.840Z [my-bank-api] info: API Started!
+2022-09-07T18:15:04.465Z [my-bank-api] info: API Started!
+2022-09-07T18:17:12.586Z [my-bank-api] info: API Started!
+2022-09-07T18:18:15.661Z [my-bank-api] info: API Started!
+2022-09-07T18:18:32.360Z [my-bank-api] info: PATCH /account/updateBalance - {"id":1,"balance":55750}
+2022-09-07T18:21:03.769Z [my-bank-api] info: API Started!
+2022-09-07T18:22:06.071Z [my-bank-api] info: API Started!
+2022-09-07T18:22:41.495Z [my-bank-api] info: API Started!
+2022-09-07T18:34:04.887Z [my-bank-api] info: API Started!
+2022-09-07T18:35:57.745Z [my-bank-api] error: logger.ifo is not a function
+2022-09-07T18:42:20.943Z [my-bank-api] error: logger.ifo is not a function
+2022-09-07T18:42:34.016Z [my-bank-api] error: logger.ifo is not a function
+2022-09-07T18:52:28.188Z [my-bank-api] info: API Started!
+2022-09-07T18:53:31.725Z [my-bank-api] info: API Started!
+2022-09-07T18:54:31.239Z [my-bank-api] info: API Started!
+2022-09-07T18:56:19.904Z [my-bank-api] info: API Started!
+2022-09-08T12:01:31.307Z [my-bank-api] info: API Started!
+2022-09-08T12:03:33.198Z [my-bank-api] info: API Started!
+2022-09-08T12:05:17.166Z [my-bank-api] info: API Started!
+2022-09-08T12:06:00.758Z [my-bank-api] info: API Started!
+2022-09-08T12:06:58.314Z [my-bank-api] info: API Started!
+2022-09-08T12:08:39.126Z [my-bank-api] info: API Started!
+2022-09-08T12:09:08.073Z [my-bank-api] info: API Started!
+2022-09-08T12:10:51.815Z [my-bank-api] info: API Started!
+2022-09-08T13:11:57.086Z [my-bank-api] info: API Started!
+2022-09-08T13:13:49.758Z [my-bank-api] info: API Started!
+2022-09-08T13:23:51.522Z [my-bank-api] info: API Started!
+2022-09-08T13:24:52.623Z [my-bank-api] info: POST /account - {"id":4,"name":"Aurora Medeiros Herca"}
+2022-09-08T13:27:15.360Z [my-bank-api] info: API Started!
+2022-09-08T13:28:19.242Z [my-bank-api] info: API Started!
+2022-09-08T13:28:43.146Z [my-bank-api] info: API Started!
+2022-09-08T13:29:34.302Z [my-bank-api] info: API Started!
+2022-09-08T13:29:50.701Z [my-bank-api] info: API Started!
+2022-09-08T13:30:12.585Z [my-bank-api] info: API Started!
+2022-09-08T13:31:04.586Z [my-bank-api] info: API Started!
+2022-09-08T13:31:40.971Z [my-bank-api] info: API Started!
+2022-09-08T13:33:24.861Z [my-bank-api] info: API Started!
+2022-09-08T13:34:03.679Z [my-bank-api] info: API Started!
+2022-09-08T13:34:22.551Z [my-bank-api] info: API Started!
+2022-09-08T13:35:38.785Z [my-bank-api] info: API Started!
+2022-09-08T13:36:18.252Z [my-bank-api] info: API Started!
+2022-09-08T13:37:37.199Z [my-bank-api] info: API Started!
+2022-09-08T13:42:16.867Z [my-bank-api] info: API Started!
+2022-09-08T13:43:55.345Z [my-bank-api] info: API Started!
+2022-09-08T13:44:30.254Z [my-bank-api] info: API Started!
+2022-09-08T13:45:48.516Z [my-bank-api] info: API Started!
+2022-09-08T13:46:23.576Z [my-bank-api] info: API Started!
+2022-09-08T13:46:40.041Z [my-bank-api] info: API Started!
+2022-09-08T13:46:59.037Z [my-bank-api] error: logger.ifo is not a function
+2022-09-08T13:47:02.600Z [my-bank-api] info: GET /account/:id
+2022-09-08T13:47:05.996Z [my-bank-api] info: DELETE /account/:id - 2
+2022-09-08T13:47:30.814Z [my-bank-api] info: POST /account - {"id":5,"name":"Aurora Medeiros Herca"}
+2022-09-08T13:47:34.862Z [my-bank-api] info: PUT /account - {"id":1,"name":"Aurora Medeiros Herca","balance":15750}
+2022-09-08T13:47:37.345Z [my-bank-api] info: PATCH /account/updateBalance - {"id":1,"balance":55750}
+2022-09-08T13:55:05.371Z [my-bank-api] info: API Started!
+2022-09-08T13:56:52.280Z [my-bank-api] info: API Started!
+2022-09-08T13:57:33.809Z [my-bank-api] info: API Started!
+2022-09-08T13:59:24.454Z [my-bank-api] info: API Started!
+2022-09-08T14:00:25.084Z [my-bank-api] info: API Started!
+2022-09-08T14:01:39.829Z [my-bank-api] info: API Started!
+2022-09-08T14:02:10.097Z [my-bank-api] info: API Started!
+2022-09-08T14:02:30.388Z [my-bank-api] info: API Started!
+2022-09-08T14:03:25.290Z [my-bank-api] info: API Started!
+2022-09-08T14:04:00.761Z [my-bank-api] info: API Started!
+2022-09-08T14:04:32.425Z [my-bank-api] info: API Started!
+2022-09-08T14:04:54.074Z [my-bank-api] info: API Started!
+2022-09-08T14:05:42.689Z [my-bank-api] info: API Started!
+2022-09-08T14:06:12.666Z [my-bank-api] info: API Started!
+2022-09-08T14:07:08.523Z [my-bank-api] info: API Started!
+2022-09-08T14:08:16.544Z [my-bank-api] info: API Started!
+2022-09-08T14:08:20.742Z [my-bank-api] info: PUT /account - {"id":1,"name":"Aurora Medeiros Herca","balance":15750}
+2022-09-08T14:08:25.929Z [my-bank-api] error: readFile is not defined
+2022-09-08T14:09:09.896Z [my-bank-api] info: API Started!
+2022-09-08T14:09:44.742Z [my-bank-api] info: API Started!
+2022-09-08T14:10:13.217Z [my-bank-api] info: API Started!
+2022-09-08T14:10:18.480Z [my-bank-api] info: POST /account - {"id":6,"name":"Aurora Medeiros Herca"}
+2022-09-08T14:15:48.409Z [my-bank-api] info: API Started!
+2022-09-08T14:20:57.238Z [my-bank-api] info: API Started!
+2022-09-08T14:21:41.027Z [my-bank-api] info: API Started!
+2022-09-08T14:22:49.583Z [my-bank-api] info: API Started!
+2022-09-08T14:23:19.213Z [my-bank-api] info: API Started!
+2022-09-08T14:24:14.121Z [my-bank-api] info: API Started!
+2022-09-08T14:25:15.916Z [my-bank-api] info: API Started!
+2022-09-08T14:25:45.321Z [my-bank-api] info: API Started!
+2022-09-08T14:27:18.373Z [my-bank-api] info: API Started!
+2022-09-08T14:29:04.523Z [my-bank-api] info: API Started!
+2022-09-08T14:34:45.211Z [my-bank-api] info: API Started!
+2022-09-08T14:35:08.493Z [my-bank-api] info: API Started!
+2022-09-08T14:37:48.099Z [my-bank-api] info: API Started!
+2022-09-08T14:38:06.194Z [my-bank-api] info: API Started!
+2022-09-08T14:38:41.935Z [my-bank-api] info: API Started!
+2022-09-08T14:39:21.447Z [my-bank-api] info: API Started!
+2022-09-08T14:40:12.208Z [my-bank-api] info: API Started!
+2022-09-08T14:41:10.550Z [my-bank-api] info: API Started!
+2022-09-08T14:41:47.242Z [my-bank-api] info: API Started!
+2022-09-08T14:42:49.326Z [my-bank-api] info: API Started!
+2022-09-08T14:44:55.817Z [my-bank-api] info: API Started!
+2022-09-08T14:49:17.910Z [my-bank-api] info: API Started!
+2022-09-08T14:49:36.593Z [my-bank-api] info: API Started!
+2022-09-08T14:49:50.599Z [my-bank-api] info: API Started!
+2022-09-08T14:50:41.298Z [my-bank-api] info: API Started!
+2022-09-08T14:51:17.044Z [my-bank-api] info: API Started!
+2022-09-08T14:51:27.697Z [my-bank-api] info: API Started!
+2022-09-08T14:52:20.865Z [my-bank-api] info: API Started!
+2022-09-08T18:38:53.729Z [my-bank-api] error: logger.ifo is not a function
+2022-09-08T18:38:57.161Z [my-bank-api] info: GET /account/:id
+2022-09-08T18:44:43.615Z [my-bank-api] info: API Started!
+2022-09-08T18:45:58.485Z [my-bank-api] info: API Started!
+2022-09-08T18:59:48.925Z [my-bank-api] info: API Started!
+2022-09-08T19:00:38.940Z [my-bank-api] info: API Started!
+2022-09-08T19:02:59.679Z [my-bank-api] info: API Started!
+2022-09-08T19:04:22.224Z [my-bank-api] info: API Started!
+2022-09-08T19:05:31.908Z [my-bank-api] info: API Started!
+2022-09-08T19:09:20.342Z [my-bank-api] info: API Started!
+2022-09-08T19:09:59.010Z [my-bank-api] info: API Started!
+2022-09-08T19:10:55.476Z [my-bank-api] info: API Started!
+2022-09-08T19:16:41.924Z [my-bank-api] info: API Started!
+2022-09-08T19:17:50.879Z [my-bank-api] info: API Started!
+2022-09-08T19:18:08.875Z [my-bank-api] info: API Started!
+2022-09-08T19:19:04.083Z [my-bank-api] info: API Started!
+2022-09-08T19:21:09.135Z [my-bank-api] info: API Started!
+2022-09-08T19:21:31.517Z [my-bank-api] info: API Started!
+2022-09-08T19:23:37.461Z [my-bank-api] info: API Started!
+2022-09-08T19:24:39.363Z [my-bank-api] info: API Started!
+2022-09-08T19:27:23.389Z [my-bank-api] info: API Started!
+2022-09-08T19:28:07.238Z [my-bank-api] info: API Started!
+2022-09-08T19:29:34.735Z [my-bank-api] info: API Started!
+2022-09-08T19:32:14.906Z [my-bank-api] info: API Started!
+2022-09-08T19:33:51.709Z [my-bank-api] info: API Started!
+2022-09-08T19:35:19.384Z [my-bank-api] info: API Started!
+2022-09-08T19:36:29.544Z [my-bank-api] info: API Started!
+2022-09-08T19:37:36.329Z [my-bank-api] info: API Started!
+2022-09-08T19:38:19.676Z [my-bank-api] info: API Started!
+2022-09-08T19:40:31.638Z [my-bank-api] info: API Started!
+2022-09-08T19:42:34.025Z [my-bank-api] info: API Started!
+2022-09-08T19:45:58.425Z [my-bank-api] info: API Started!
+2022-09-08T19:50:50.394Z [my-bank-api] info: API Started!
+2022-09-08T19:51:38.769Z [my-bank-api] info: API Started!
+2022-09-08T19:52:04.366Z [my-bank-api] info: API Started!
